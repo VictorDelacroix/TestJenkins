@@ -1,0 +1,17 @@
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\bin\Debug\ProbandoJenkins.exe.config
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\bin\Debug\ProbandoJenkins.exe
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\bin\Debug\ProbandoJenkins.pdb
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.Form1.resources
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.Properties.Resources.resources
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.exe
+C:\Users\Victor\Desktop\ProbandoJenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.pdb
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\bin\Debug\ProbandoJenkins.exe.config
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.exe
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.pdb
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\bin\Debug\ProbandoJenkins.exe
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\bin\Debug\ProbandoJenkins.pdb
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.Form1.resources
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.Properties.Resources.resources
+C:\Users\Victor\Desktop\Git Jenkins\ProbandoJenkins\obj\Debug\ProbandoJenkins.csproj.GenerateResource.Cache
