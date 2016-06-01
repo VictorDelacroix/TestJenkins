@@ -1,0 +1,9 @@
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\bin\Debug\ProbandoNet2.exe.config
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\bin\Debug\ProbandoNet2.exe
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\bin\Debug\ProbandoNet2.pdb
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\obj\Debug\ProbandoNet2.csprojResolveAssemblyReference.cache
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\obj\Debug\ProbandoNet2.Form1.resources
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\obj\Debug\ProbandoNet2.Properties.Resources.resources
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\obj\Debug\ProbandoNet2.csproj.GenerateResource.Cache
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\obj\Debug\ProbandoNet2.exe
+C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ProbandoNet2\obj\Debug\ProbandoNet2.pdb

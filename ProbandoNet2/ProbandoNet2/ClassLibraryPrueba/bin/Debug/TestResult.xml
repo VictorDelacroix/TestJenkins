@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ClassLibraryPrueba\bin\Debug\ClassLibraryPrueba.dll" total="7" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-06-01" time="02:39:25">
+  <environment nunit-version="2.6.4.14350" clr-version="2.0.50727.8009" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="D:\NUnit-2.6.4\NUnit-2.6.4\bin" machine-name="ASUS" user="vIN" user-domain="ASUS" />
+  <culture-info current-culture="es-PE" current-uiculture="es-ES" />
+  <test-suite type="Assembly" name="C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ClassLibraryPrueba\bin\Debug\ClassLibraryPrueba.dll" executed="True" result="Success" success="True" time="0.146" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="ClassLibraryPrueba" executed="True" result="Success" success="True" time="0.127" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="NUnitPrueba" executed="True" result="Success" success="True" time="0.125" asserts="0">
+            <results>
+              <test-case name="ClassLibraryPrueba.NUnitPrueba.TestBoolFalse" executed="True" result="Success" success="True" time="0.032" asserts="1" />
+              <test-case name="ClassLibraryPrueba.NUnitPrueba.TestBoolTrue" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="ClassLibraryPrueba.NUnitPrueba.TestSumaEqual" executed="True" result="Success" success="True" time="0.015" asserts="1" />
+              <test-case name="ClassLibraryPrueba.NUnitPrueba.TestSumaNotEqual" executed="True" result="Success" success="True" time="0.008" asserts="1" />
+              <test-case name="ClassLibraryPrueba.NUnitPrueba.TestUnirEqual" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+              <test-case name="ClassLibraryPrueba.NUnitPrueba.TestUnirNotEqual" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+              <test-case name="ClassLibraryPrueba.NUnitPrueba.TestUnirNull" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
