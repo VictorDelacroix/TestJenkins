@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1000]C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ClassLibraryPrueba\bin\Debug\ClassLibraryPrueba.nunit</TopNode>
+  <SelectedNode>[0-1000]C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ClassLibraryPrueba\bin\Debug\ClassLibraryPrueba.nunit</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1000]C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ClassLibraryPrueba\bin\Debug\ClassLibraryPrueba.nunit" Expanded="true" />
+    <Node UniqueName="[0-1009]C:\Users\vIN\Desktop\Jenkins\ProbandoNet2\ProbandoNet2\ClassLibraryPrueba\bin\Debug\ClassLibraryPrueba.dll" Expanded="true" />
+    <Node UniqueName="[0-1010]ClassLibraryPrueba" Expanded="true" />
+    <Node UniqueName="[0-1001]ClassLibraryPrueba.NUnitPrueba" Expanded="true" />
+  </Nodes>
+</VisualState>
